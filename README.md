@@ -47,10 +47,12 @@ Ty se nachází pod LCD displejem, do kartonu jsem udělal dostatečně velký o
 
   Celý zařízení je napájeno USB kabelem, ze strany pod batrerií lze kabel prostrčit. Dráty, které mají podobné využití nebo slouží ke stejné věci jsem obmotal jiným drátkem, aby tak uvnitř krabice nevznikalo šílenství.
 
-  # KÓD:
+# KÓD:
 
-  Přidal jsem nahoře k této prezentaci i složku s celým kódem v Arduinu.
+Přidal jsem nahoře k této prezentaci i složku s celým kódem v Arduinu.
 
-  # ZDROJE A POMOC:
+# ZDROJE A POMOC:
 
-  Jak už jsem zmiňoval v prvním pololetí, inspirací jsem měl dost, nakonec jsem ale čerpal čistě z této stránky: https://www.viralsciencecreativity.com/post/arduino-airsoft-bomb
+* Zdroje: Jak už jsem zmiňoval v prvním pololetí, inspirací jsem měl dost, nakonec jsem ale čerpal čistě z této stránky: https://www.viralsciencecreativity.com/post/arduino-airsoft-bomb, z které jsem využil kód a zapojení hardwaru.
+
+* Pomoc: Jakub Kučera byl ochoten mi spájet dráty k membránové klávesnici, jelikož jsem na tohle a podobné miniaturní věci neschopný nervák, zároveň mi do-zkontroloval hardware, zde je všechno v pořádku.
