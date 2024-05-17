@@ -28,7 +28,7 @@ b) Elektronika Arduino Nano, I2Cx2 LCD Displej s integrovaným obvodem, membrán
 
 ### 3. POPIS A POSTUP
 
-* a) Vnější část: Místo skládání kartonových krabiček jsem zvolil rovnou jednu v celku kterou jsem měl po ruce. Její rozměry (13cm x 19cm x 4,5cm) stačí přesně na to, aby se do/na ní vešlo vše co je potřeba. Na vnější straně je membránová klávesnice, do které jsem ze vnitř skrz karton prostrčil drátky a poté je napájel. 
+* Místo skládání kartonových krabiček jsem zvolil rovnou jednu v celku kterou jsem měl po ruce. Její rozměry (13cm x 19cm x 4,5cm) stačí přesně na to, aby se do/na ní vešlo vše co je potřeba. Na vnější straně je membránová klávesnice, do které jsem ze vnitř skrz karton prostrčil drátky a poté je napájel. 
 
 Skrz karton prochází také diody (zelená, žlutá a červená), které jsem zevnitř připevnil tavící pistolí.
 Ty se nachází pod LCD displejem, do kartonu jsem udělal dostatečně velký otvor pro integrovaný obvod a jak displej, tak keypad jsem ke krabici připevnil tavící pistolí.
@@ -37,7 +37,7 @@ Pro detail jsem krabici oblepil lepící páskou společně s 9V baterií, jež 
 
 Fixem jsem pak už jen doladil nejmenší detaily.
 
-b) Vnitřní část: Jelikož jsem zvolil již předem složenou krabici, dokázal jsem se tak jednoduše dostat dovnitř před zadní stranu, která se dá otevřit.
+* Vnitřní část: Jelikož jsem zvolil již předem složenou krabici, dokázal jsem se tak jednoduše dostat dovnitř před zadní stranu, která se dá otevřit.
 
 Uvnitř je nalepené nepájivé pole, na něm Arduino Nano a všechny další částí hardwaru (např. bzučák na pinu 9). Na levé části Arduina jsou připojený piny pro keypad. Na pravé straně zase LED diody a LCD displej. 
 
