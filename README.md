@@ -36,3 +36,13 @@ Ty se nachází pod LCD displejem, do kartonu jsem udělal dostatečně velký o
 Pro detail jsem krabici oblepil lepící páskou společně s 9V baterií, jež slouží jen pro desing, společně s drátky které jsou natáhnuty po kartonové ploše.
 
 Fixem jsem pak už jen doladil nejmenší detaily.
+
+b) Vnitřní část: Jelikož jsem zvolil již předem složenou krabici, dokázal jsem se tak jednoduše dostat dovnitř před zadní stranu, která se dá otevřit.
+
+Uvnitř je nalepené nepájivé pole, na něm Arduino Nano a všechny další částí hardwaru (např. bzučák na pinu 9). Na levé části Arduina jsou připojený piny pro keypad. Na pravé straně zase LED diody a LCD displej. 
+
+Jak už jsem zmínil diody jsou přitaveny pevně ke krabici a k červené diodě jsem přiřadil rezisotr o 330 ohm., k zelené a žluté diodě zas 220 ohm.
+
+Nad diodami je integrovaný obvod LCD displeje, kde je možné si nastavit jasnost displeje.
+
+Celý zařízení je napájeno USB kabelem, ze strany pod batrerií lze kabel prostrčit.
