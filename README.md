@@ -20,7 +20,7 @@
 
 a) Vizuální část: Kartonová krabice (13cm x 19cm x 4,5cm), šedá textilní lepící páska, lepidlo, tavící pistole, 9V baterie, černý fix, dráty.
 
-b) Elektronika: Arduino Nano, I2Cx2 LCD Displej s integrovaným obvodem, membránová klávesnice 4x3, bzučák, dráty, nepájivé pole, LED diody, 1x rezistor 330ohm, 2x rezistor 220ohm.
+b) Elektronika: Arduino Nano, I2Cx2 LCD Displej s integrovaným obvodem, membránová klávesnice 4x3, bzučák, dráty, nepájivé pole, 3x LED diody, 1x rezistor 330ohm, 2x rezistor 220ohm.
 
 ### 2. FOTKY:
 
@@ -28,7 +28,7 @@ b) Elektronika: Arduino Nano, I2Cx2 LCD Displej s integrovaným obvodem, membrá
 
 ### 3. POPIS A POSTUP:
 
-* Místo skládání kartonových krabiček jsem zvolil rovnou jednu v celku kterou jsem měl po ruce. Její rozměry (13cm x 19cm x 4,5cm) stačí přesně na to, aby se do/na ní vešlo vše co je potřeba. Na vnější straně je membránová klávesnice, do které jsem ze vnitř skrz karton prostrčil drátky a poté je napájel. 
+* Místo skládání kartonových krabiček jsem zvolil rovnou jednu krabici v celku kterou jsem měl po ruce. Její rozměry (13cm x 19cm x 4,5cm) stačí přesně na to, aby se do/na ní vešlo vše co je potřeba. Na vnější straně je membránová klávesnice, do které jsem ze vnitř skrz karton prostrčil drátky a poté je napájel. 
 
   Skrz karton prochází také diody (zelená, žlutá a červená), které jsem zevnitř připevnil tavící pistolí.
 Ty se nachází pod LCD displejem, do kartonu jsem udělal dostatečně velký otvor pro integrovaný obvod a jak displej, tak keypad jsem ke krabici připevnil tavící pistolí.
@@ -37,19 +37,19 @@ Ty se nachází pod LCD displejem, do kartonu jsem udělal dostatečně velký o
 
   Fixem jsem pak už jen doladil nejmenší detaily.
 
-* Vnitřní část: Jelikož jsem zvolil již předem složenou krabici, dokázal jsem se tak jednoduše dostat dovnitř před zadní stranu, která se dá otevřit.
+* Vnitřní část: Jelikož jsem zvolil již předem složenou krabici, dokázal jsem se tak jednoduše dostat dovnitř k hardwaru přes zadní stranu, která se dá otevřit.
 
   Uvnitř je nalepené nepájivé pole, na něm Arduino Nano a všechny další částí hardwaru (např. bzučák na pinu 9). Na levé části Arduina jsou připojený piny pro keypad. Na pravé straně zase LED diody a LCD displej. 
 
   Jak už jsem zmínil diody jsou přitaveny pevně ke krabici a k červené diodě jsem přiřadil rezisotr o 330 ohm., k zelené a žluté diodě zas 220 ohm.
 
-  Nad diodami je integrovaný obvod LCD displeje, kde je možné si nastavit jasnost displeje.
+  Nad diodami je integrovaný obvod LCD displeje, kde je možné si nastavit na zadní straně jasnost displeje.
 
-  Celý zařízení je napájeno USB kabelem, ze strany pod batrerií lze kabel prostrčit. Dráty, které mají podobné využití nebo slouží ke stejné věci jsem obmotal jiným drátkem, aby tak uvnitř krabice nevznikalo šílenství.
+  Celý zařízení je napájeno USB kabelem, ze strany pod batrerií lze kabel prostrčit. Dráty, které mají podobné využití nebo slouží ke stejné věci jsem obmotal jiným drátkem, aby tak uvnitř krabice nevznikalo šílenství a bordel.
 
 # KÓD:
 
-Přidal jsem nahoře k této prezentaci i složku s celým kódem v Arduinu. Snažil jsem se ho popsat do detailů, ale mnoho příkazů se tam opakuje (s rozdílem např. hodiny, minuty, vteřiny), takže jsem popsal jen první část a další podobný jsem vynechal.
+Přidal jsem nahoře k této prezentaci i složku s celým kódem v Arduinu. Snažil jsem se ho popsat do detailů, ale mnoho příkazů se tam opakuje (s rozdílem např. hodiny, minuty, vteřiny), takže jsem popsal jen první část a další k tomu podobný jsem vynechal.
 
 # ZDROJE A POMOC:
 
