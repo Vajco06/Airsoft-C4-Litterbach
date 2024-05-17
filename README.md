@@ -2,9 +2,9 @@
 
 # ZADÁNÍ
 
-V tomto projektu bylo mým cílem vytvořit realistickou repliku výbušniny C4 z populární hry Counter-Strike. Kromě vizuální napodobeniny jsem řešil funkčnost několika částí a zda bude v celku fungovat (aktivace a deaktivace výbušniny, LED diody, bzučák,…)
+* V tomto projektu bylo mým cílem vytvořit realistickou repliku výbušniny C4 z populární hry Counter-Strike. Kromě vizuální napodobeniny jsem řešil funkčnost několika částí a zda bude v celku fungovat (aktivace a deaktivace výbušniny, LED diody, bzučák,…)
 
-Výbušnina by mohla sloužit jako replika C4 pro Airsoft události.
+* Výbušnina by mohla sloužit jako replika C4 pro Airsoft události.
 
 # POROVNÁNÍ TEXTURY ZE HRY S KOPIÍ
 
