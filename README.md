@@ -18,7 +18,7 @@
 
 ### 1. MATERIÁL:
 
-a) Vizuální část: Kartonová krabička (13cm x 19cm x 4,5cm), šedá textilní lepící páska, lepidlo, tavící pistole, 9V baterie, černý fix, dráty.
+a) Vizuální část: Kartonová krabice (13cm x 19cm x 4,5cm), šedá textilní lepící páska, lepidlo, tavící pistole, 9V baterie, černý fix, dráty.
 
 b) Elektronika Arduino Nano, I2Cx2 LCD Displej s integrovaným obvodem, membránová klávesnice 4x3, bzučák, dráty, nepájivé pole, LED diody, 1x rezistor 330ohm, 2x rezistor 220ohm.
 
