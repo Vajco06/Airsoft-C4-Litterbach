@@ -20,7 +20,7 @@
 
 a) Vizuální část: Kartonová krabice (13cm x 19cm x 4,5cm), šedá textilní lepící páska, lepidlo, tavící pistole, 9V baterie, černý fix, dráty.
 
-b) Elektronika Arduino Nano, I2Cx2 LCD Displej s integrovaným obvodem, membránová klávesnice 4x3, bzučák, dráty, nepájivé pole, LED diody, 1x rezistor 330ohm, 2x rezistor 220ohm.
+b) Elektronika: Arduino Nano, I2Cx2 LCD Displej s integrovaným obvodem, membránová klávesnice 4x3, bzučák, dráty, nepájivé pole, LED diody, 1x rezistor 330ohm, 2x rezistor 220ohm.
 
 ### 2. FOTKY:
 
@@ -55,4 +55,4 @@ Přidal jsem nahoře k této prezentaci i složku s celým kódem v Arduinu. Sna
 
 * Zdroje: Jak už jsem zmiňoval v prvním pololetí, inspirací jsem měl dost, nakonec jsem ale čerpal čistě z této stránky: https://www.viralsciencecreativity.com/post/arduino-airsoft-bomb, z které jsem využil kód a zapojení hardwaru.
 
-* Pomoc: Jakub Kučera byl ochoten mi spájet dráty k membránové klávesnici, jelikož jsem na tohle a podobné miniaturní věci neschopný nervák, zároveň mi do-zkontroloval hardware, zde je všechno v pořádku.
+* Pomoc: Jakub Kučera byl ochoten mi spájet dráty k membránové klávesnici, jelikož jsem na tohle a podobné miniaturní věci neschopný nervák, zároveň mi do-zkontroloval hardware, zda je všechno v pořádku.
