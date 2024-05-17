@@ -16,11 +16,11 @@ Výbušnina by mohla sloužit jako replika C4 pro Airsoft události.
 
 # PŘÍPRAVA, POSTUP, POPIS A FOTKY:
 
-###### 1. MATERIÁL:
+##### 1. MATERIÁL:
 
 a) Vizuální část: Kartonová krabička (13cm x 19cm x 4,5cm), šedá textilní lepící páska, lepidlo, tavící pistole, 9V baterie, černý fix, dráty.
 
-B) Elektronika Arduino Nano, I2Cx2 LCD Displej, membránová klávesnice 4x3, bzučák, dráty, nepájivé pole, LED diody, 1x rezistor 330ohm, 2x rezistor 220ohm.
+b) Elektronika Arduino Nano, I2Cx2 LCD Displej, membránová klávesnice 4x3, bzučák, dráty, nepájivé pole, LED diody, 1x rezistor 330ohm, 2x rezistor 220ohm.
 
 ##### 2. FOTKY
 
