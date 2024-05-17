@@ -48,3 +48,9 @@ Ty se nachází pod LCD displejem, do kartonu jsem udělal dostatečně velký o
   Celý zařízení je napájeno USB kabelem, ze strany pod batrerií lze kabel prostrčit. Dráty, které mají podobné využití nebo slouží ke stejné věci jsem obmotal jiným drátkem, aby tak uvnitř krabice nevznikalo šílenství.
 
   # KÓD:
+
+  Přidal jsem nahoře k této prezentaci i složku s celým kódem v Arduinu.
+
+  # ZDROJE A POMOC:
+
+  Jak už jsem zmiňoval v prvním pololetí, inspirací jsem měl dost, nakonec jsem ale čerpal čistě z této stránky: https://www.viralsciencecreativity.com/post/arduino-airsoft-bomb
