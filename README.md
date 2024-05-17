@@ -49,7 +49,7 @@ Ty se nachází pod LCD displejem, do kartonu jsem udělal dostatečně velký o
 
 # KÓD:
 
-Přidal jsem nahoře k této prezentaci i složku s celým kódem v Arduinu.
+Přidal jsem nahoře k této prezentaci i složku s celým kódem v Arduinu. Snažil jsem se ho popsat do detailů, ale mnoho příkazů se tam opakuje (s rozdílem např. hodiny, minuty, vteřiny), takže jsem popsal jen první část a další podobný jsem vynechal.
 
 # ZDROJE A POMOC:
 
