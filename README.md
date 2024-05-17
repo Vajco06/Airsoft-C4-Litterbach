@@ -14,6 +14,14 @@ Výbušnina by mohla sloužit jako replika C4 pro Airsoft události.
 
 ![image](https://cdn.discordapp.com/attachments/888092043803504730/1241111197965746218/Vystrizek.PNG?ex=66490260&is=6647b0e0&hm=255efdacc2c88dc32b3b883f21b73613d86d2d6855345c2f19b3436b2020fc10&)
 
-# DETAILNÍ FOTKY A POPIS
+# PŘÍPRAVA, POSTUP, POPIS A FOTKY:
+
+###### 1. MATERIÁL:
+
+a) Vizuální část: Kartonová krabička (13cm x 19cm x 4,5cm), šedá textilní lepící páska, lepidlo, tavící pistole, 9V baterie, černý fix, dráty.
+
+B) Elektronika Arduino Nano, I2Cx2 LCD Displej, membránová klávesnice 4x3, bzučák, dráty, nepájivé pole, LED diody, 1x rezistor 330ohm, 2x rezistor 220ohm.
+
+##### 2. FOTKY
 
 ![image](https://cdn.discordapp.com/attachments/888092043803504730/1241114047336677437/696C6ED7-208D-45B3-A180-6A7A6C03B23C.jpg?ex=66490507&is=6647b387&hm=ac4b674562e8d82aba58c91f95b67c873da108a39783d04ee93b2276589e75d3&) ![image](https://cdn.discordapp.com/attachments/888092043803504730/1241114046971908176/182B3470-330A-43CF-B3BA-EE7E0609CBCB.jpg?ex=66490507&is=6647b387&hm=c233ab701bc1567c1ccc19e6656215cea027c9e91ddd288f062836a797491574&) ![image](https://cdn.discordapp.com/attachments/888092043803504730/1241114046694948916/C794CA2C-D8F6-43BC-BC24-CAA8A3E08781.jpg?ex=66490507&is=6647b387&hm=f68cad9c923822591a6bc8651edd53682c32d54a479d58b7b607f752c0071b50&) ![image](https://cdn.discordapp.com/attachments/888092043803504730/1241114045264826458/2E807ED2-5CFD-4A8B-A55E-A033DE5DEBFC.jpg?ex=66490507&is=6647b387&hm=0a79537ff17d04f379be5ee1bd130029c379aaf0e07db98de3c26116079d2b45&) ![image](https://cdn.discordapp.com/attachments/888092043803504730/1241114045675737088/9D60E382-7BE4-41D9-BCF8-B285F3A6BF5E.jpg?ex=66490507&is=6647b387&hm=44e41427304c992bea0daa9ef6415128029824b3cfdbd2b4c570af84c1c77a92&) ![image](https://cdn.discordapp.com/attachments/888092043803504730/1241114046057414676/84446D6F-63CD-40CD-BB98-EE4A585FA66D.jpg?ex=66490507&is=6647b387&hm=87e70b157ac641b8f5e32a92fd770edf99563c0435f8836752fb5cb9777dd32d&) ![image](https://cdn.discordapp.com/attachments/888092043803504730/1241114047735271474/AAAA7F8C-CBDB-49D3-AEE9-641A1301345C.jpg?ex=66490507&is=6647b387&hm=b1f5d3f820cc2894e1dbc0e40f24080c9fa11c052d642eefddd3a4b281287c70&)
