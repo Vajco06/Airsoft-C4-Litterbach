@@ -1,6 +1,6 @@
-# Airsoft-C4-Litterbach
+# Mrdání negrou - Litterbach 
 
-# ZADÁNÍ
+# ZADÁNÍ (budeš šukanej)
 
 * V tomto projektu bylo mým cílem vytvořit realistickou repliku výbušniny C4 z populární hry Counter-Strike. Kromě vizuální napodobeniny jsem řešil funkčnost několika částí a zda bude v celku fungovat (aktivace a deaktivace výbušniny, LED diody, bzučák,…)
 
@@ -47,7 +47,7 @@ Ty se nachází pod LCD displejem, do kartonu jsem udělal dostatečně velký o
 
   Celý zařízení je napájeno USB kabelem, ze strany pod batrerií lze kabel prostrčit. Dráty, které mají podobné využití nebo slouží ke stejné věci jsem obmotal jiným drátkem, aby tak uvnitř krabice nevznikalo šílenství a bordel.
 
-# KÓD:
+# KÓD: (ošukáme tě) 
 
 Přidal jsem nahoře k této prezentaci i složku s celým kódem v Arduinu. Snažil jsem se ho popsat do detailů, ale mnoho příkazů se tam opakuje (s rozdílem např. hodiny, minuty, vteřiny), takže jsem popsal jen první část a další k tomu podobný jsem vynechal.
 
